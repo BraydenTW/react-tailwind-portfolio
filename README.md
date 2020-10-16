@@ -1,6 +1,6 @@
 # react-tailwind-portfolio
 
-👨‍🎨 An open-source portfolio template built with ReactJS and TailwindCSS.
+👨‍🎨 An open-source portfolio template built with React and Tailwind.
 
 ![Open React template preview](./demo.png)
 
