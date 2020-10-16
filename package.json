@@ -1,6 +1,6 @@
 {
   "name": "react-tailwind-portfolio",
-  "description": "An open-source portfolio template built with ReactJS and Tailwind.",
+  "description": "An open-source portfolio template built with React and Tailwind.",
   "version": "0.1.0",
   "homepage": ".",
   "private": true,
