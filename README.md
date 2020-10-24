@@ -117,12 +117,8 @@ In order to track visitors, you need to set an [environment variable](https://cr
 
 ---
 
-## About Me
+### Like my work?
 
-I am a passionate Front-end developer/designer. I have been in the industry for 4 years and love being apart of the open-source community. 🤗
+<a href="https://www.buymeacoffee.com/braydenw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" ></a>
 
-🌐 Website: https://braydentw.github.io
-<br />
-📧 Email: brayden45.dev@gmail.com
-
-Check out my other cool projects! ➡ [@BraydenTW](https://github.com/BraydenTW)
+Made by [@BraydenTW](https://github.com/braydentw)
