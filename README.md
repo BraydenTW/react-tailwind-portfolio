@@ -8,7 +8,7 @@ Made with 💙 by [Brayden W](https://braydentw.github.io).
 
 ## Live demo
 
-Check out the live demo here 👉️ [https://braydentw.github.io/react-tailwind-portfolio](https://braydentw.github.io/react-tailwind-portfolio)
+Check out the live demo here 👉️ https://react-tailwind-portfolio.braydentw.vercel.app/
 
 ## Table of contents
 
