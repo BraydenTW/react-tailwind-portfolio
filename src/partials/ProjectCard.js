@@ -1,5 +1,5 @@
 import React from "react";
-import { FaExternalLinkAlt, FaExternalLinkSquareAlt } from "react-icons/fa";
+import { FaExternalLinkAlt } from "react-icons/fa";
 import GitHubButton from "react-github-btn";
 
 const ProjectCard = ({ project: { title, description, tags, link } }) => {
