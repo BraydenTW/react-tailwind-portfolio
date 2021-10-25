@@ -30,5 +30,29 @@ const data = {
       skillIcon: <FaReact className={BOOTSTRAP_FOR_SKILL_ICON} />,
     },
   ],
+  projects: [
+    {
+      title: "React tailwind portfolio",
+      description: "👨‍🎨 An open-source portfolio template built with React and Tailwind.",
+      tags: [
+        "template",
+        "portfolio",
+        "reactjs",
+        "tailwindcss"
+      ],
+      link: "https://github.com/braydentw/react-tailwind-portfolio"
+    },
+    {
+      title: "My personal website",
+      description: "⚡ My portfolio built with NextJS and TailwindCSS.",
+      tags: [
+        "website",
+        "portfolio",
+        "nextjs",
+        "tailwindcss"
+      ],
+      link: "https://github.com/braydentW/braydentw"
+    }
+  ]
 };
 export default data;
